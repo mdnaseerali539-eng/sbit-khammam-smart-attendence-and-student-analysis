@@ -1,0 +1,11 @@
+{
+  "name": "Swarna Bharathi Institute of Science and Technology – Smart Attendance Management System",
+  "description": "Smart Attendance Management System for Swarna Bharathi Institute of Science and Technology with Super Admin, Staff, and Student portals, QR registration, camera face detection and verification, geofencing, and institutional exports.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
